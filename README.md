@@ -5,7 +5,9 @@ This project creates cities with random roads layout and random, procedurally ge
 
 ## Demo
 
-Insert gif or link to demo
+![](Media/Animation.gif)
+![](Media/Screenshot1.png)
+
 
 
 ## Optimizations
@@ -19,4 +21,5 @@ It has been implemented by shooting fixed number of raycasts from current
 camera position, enabling hitted objects and hiding them again after 
 fixed amount of time without being hitted. In order to increase the optimisation even further,
  it is advised to not create additional building parts within the structures.
+![](Media/Animation2.gif)
 
