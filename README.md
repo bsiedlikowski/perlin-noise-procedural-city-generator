@@ -1,7 +1,7 @@
 
 # City Generator
 
-This project creates cities with random roads layout and random, procedurally generated and beautiful buildings with use of Perlin Noise.
+This project creates cities with random roads layout and random, procedurally generated buildings with use of Perlin Noise.
 
 ## Demo
 
